@@ -1,0 +1,29 @@
+.container{
+  margin: 0 auto;
+}
+
+.heading{
+  text-align: center;
+  color: rgb(41, 211, 154);
+  font-size: 40px;
+}
+
+.input-container{
+  display: flex;
+  justify-content: center;
+}
+
+.input-container input{
+  width: 500px;
+  height: 50px;
+  padding: 6px 12px;
+  border-radius: 4px;
+}
+
+button{
+  height: 45px;
+  background-color: #d7eaee;
+  margin: 0px 10px;
+  margin-top: 10px;
+  border-radius: 4px;
+}
